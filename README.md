@@ -5,7 +5,9 @@
 
 ### 2.API文档
 
-* 看云 - https://www.kancloud.cn
+* 看云 - https://www.kancloud.cn （私有付费）
+* 小幺鸡 - http://www.xiaoyaoji.cn
+* apizza.cc - http://apizza.cc
 
 ### 3.敏捷开发
 
@@ -16,7 +18,7 @@
 * tower - https://tower.im
 
 
-### 5.Bug
+### 5.Bug管理
 
 * bugclose - https://bugclose.com
 
